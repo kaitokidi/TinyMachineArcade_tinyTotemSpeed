@@ -9,3 +9,5 @@ If you catch it first you win a token.
 If someone catch it when it is not suposed to, he/she looses a token.
 
 Compete to see who can have all the tokens!
+
+madeby GenísBayona
